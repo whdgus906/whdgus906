@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whdgus906&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
 
 <!--
 **whdgus906/whdgus906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
