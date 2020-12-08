@@ -3,6 +3,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whdgus906&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdgus906&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **whdgus906/whdgus906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
