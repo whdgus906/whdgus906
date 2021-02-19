@@ -1,6 +1,5 @@
 ### Hi there 👋
-### My tech stack
-
+### My tech stack is
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 
