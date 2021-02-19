@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### My tech stack
-<img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a> 
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whdgus906&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
